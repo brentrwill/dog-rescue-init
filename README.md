@@ -1,7 +1,8 @@
 This is an example of how to use the JPA framework, but loading the files from the resource directly.
+<br/>
 
 An example of this is:
-
+</br>
 spring:
   datasource:
     username: *********
